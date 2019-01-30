@@ -11,7 +11,7 @@ public class DemoApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("高羽 ？ 小勾");
+        System.out.println("高羽 = 小勾");
     }
 
 }
